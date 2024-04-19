@@ -53,8 +53,8 @@ const Camp = () => {
       <div className="hide-scrollbar flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]">
         <CampSite 
           backgroundImage="bg-bg-img-1"
-          title="Putuk Truno Camp"
-          subtitle="Prigen, Pasuruan"
+          title="Ibeno Beach Camp"
+          subtitle="Ibeno, Oron"
           peopleJoined="50+ Joined"
         />
         <CampSite 
@@ -71,7 +71,7 @@ const Camp = () => {
             <strong>Feeling Lost</strong> And Not Knowing The Way?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure
+            Starting from the anxiety of the travellers when visiting a new crowded location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure
           </p>
           <Image 
             src="/quote.svg"
